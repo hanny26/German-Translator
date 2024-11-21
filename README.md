@@ -11,9 +11,8 @@ This project is an English-to-German translator that allows users to input Engli
 
 ## Tech Stack
 
-- **Frontend:** [React.js / Vue.js / HTML/CSS/JS]
-- **Translation API:** [Google Translate API / Microsoft Translator API / custom solution]
-- **Database:** [MongoDB / MySQL / SQLite] (if applicable)
+- **Frontend:** [core React.js /HTML/CSS/JS]
+- **Translation API:** [Dictionary(own Api) /custom solution]
 
 ## Installation
 
